@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <game>
-	<text name="title"><![CDATA[NEW SUPER MARIO BROS.]]></text>
-	<text name="navi"><![CDATA[NEW SUPER MARIO BROS.]]></text>
-	<text name="body"><![CDATA[Das erste völlig neue zweidimensionale Mario-Jump'n'Run-Spiel seit Super Mario World ist da! Das turbulente Abenteuer wartet mit einer unglaublichen 3D-Grafik und einem klassischen 2D-Gameplay auf. Mario-Fans werden begeistert sein, wenn sie über Felder, durch Gewässer, Schlösser und durch die Luft hüpfen. Das Spiel bietet auch ein Mario-vs.-Luigi-Duell für zwei Spieler!]]></text>
+	<text name="title"><![CDATA[NEW SUPER MARIO BROS]]></text>
+	<text name="navi"><![CDATA[NEW SUPER MARIO BROS]]></text>
+	<text name="body"><![CDATA[The first all-new 2-D Mario platformer since Super Mario World has arrived! Boasting incredible 3-D graphics to accompany classic 2-D gameplay, this fast-paced adventure will have Mario fans cheering as they make their way over fields, under water, through castles, and into the air. Also features a head-to-head Mario vs Luigi two-player mode!]]></text>
 </game>

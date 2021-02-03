@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <texte>
 
-	<text name="help_story_01_headline"><![CDATA[Chubby Snow in gefährlicher Mission!]]></text>
-	<text name="help_story_02_copy1"><![CDATA[Die United Pixelheroes Organisation, kurz UPIXO, hat dem kleinen Schneemann Chubby Snow einen waghalsigen Auftrag gegeben: Er soll den Bösewicht El Pix in seinem Reich Snowdriftland aufspüren und das gesamte Spielmaterial zurückholen, das der fiese Pinguin aus der Welt der Menschen gestohlen hat.<br /><br />Chubby kann seinen Auftrag aber nur mit deiner Hilfe erfüllen, denn vom 1. bis 24. Dezember wartet jeden Tag ein spannendes Jump’n’Run Level auf dich und den kleinen Schneemann. Wenn du das darin versteckte Spielmaterial findest, ist UPIXO einem Sieg über den Bösewicht El Pix einen Schritt näher gekommen.]]></text>
-	<text name="help_story_03_copy2"><![CDATA[Und weil du Chubby bei seiner schwierigen Aufgabe unterstützt, wirst du mit exklusiven Downloads belohnt. Dazu musst du einfach dem Wegweiser ins UPIXO Labor folgen, wo du deine Geschenke und jede Menge Informationen über das gerettete Spielmaterial finden kannst.<br /><br />Hast du am 24. Dezember alle Level mit Chubby gemeinsam gelöst und das gestohlene Spielmaterial zurück erobert, erwartet dich schließlich der spannende Kampf gegen den fiesen Pinguin selbst.]]></text>
+	<text name="help_story_01_headline"><![CDATA[Chubby Snow's perilous mission!]]></text>
+	<text name="help_story_02_copy1"><![CDATA[The United Pixel Heroes Organisation (UPIXO) has entrusted brave little snowman Chubby Snow with the riskiest of assignments: to locate the sinister El Pix in his realm of Snowdriftland and bring back all the game files that this nasty penguin has pilfered from the Human World.<br /><br />But Chubby can only complete his task with your help! A thrilling platform level awaits you and our ice cold hero every day from the 1st until the 24th of December. If you succeed in finding the game files hidden in those levels, it will bring UPIXO one step closer to defeating the evil El Pix.]]></text>
+	<text name="help_story_03_copy2"><![CDATA[And because you support Chubby during his dangerous mission, you'll be rewarded with cool downloads! Just follow the directions towards the UPIXO Laboratory to find your goodies and all sorts of information about the game files that you tracked down.<br /><br />When you and Chubby collect all the stolen game files and make it through the last level on December 24, a final thrilling showdown to end the plague of the penguin awaits.]]></text>
 
-	<text name="help_legende_01_headline"><![CDATA[Legende]]></text>
-	<text name="help_legende_02_kristall"><![CDATA[In jedem Spiellevel sind 24 Eiskristalle versteckt. Wenn du alle Kristalle im Kalender einsammelst (insgesamt 576), kannst du einen Bonus-Download mit Motiven aus Snowdriftland freischalten.]]></text>	
-	<text name="help_legende_03_tuer"><![CDATA[Auf den Adventskalender-Türchen steht das Datum, ab dem sie sich öffnen lassen.]]></text>
-	<text name="help_legende_04_tuerkristall"><![CDATA[Hast du ein Level komplett gelöst, d.h. das Spielmaterial aus der Truhe befreit und alle Eiskristalle eingesammelt, ist das Türchen offen und trägt ein Eiskristall.]]></text>
-	<text name="help_legende_05_tueroffen"><![CDATA[Eine geöffnete Tür zeigt dir, dass du in diesem Level zwar das gestohlene Spielmaterial befreit, aber noch nicht alle Eiskristalle gefunden hast.]]></text>
-	<text name="help_legende_06_labor"><![CDATA[Im Labor findest du alle Spielmaterialien, die Chubby zurückerobert hat. Außerdem kannst du hier deine Belohnungen herunterladen.]]></text>
-	<text name="help_legende_07_feedback"><![CDATA[Wenn du möchtest, kannst du uns über das Feedback Formular mitteilen, was dir an dem Adventkalender gefällt oder was dich stört. Wir freuen uns über jede Nachricht von dir!]]></text>
+	<text name="help_legende_01_headline"><![CDATA[Legend]]></text>
+	<text name="help_legende_02_kristall"><![CDATA[Twenty-four ice crystals are hidden in every level. If you collect all the 576 ice crystals in the entire advent calendar, you unlock a special bonus download from Snowdriftland.]]></text>	
+	<text name="help_legende_03_tuer"><![CDATA[Each door in the advent calendar shows the date on which it can be opened.]]></text>
+	<text name="help_legende_04_tuerkristall"><![CDATA[When you've cleared a level by taking the game files from the chest and collecting all the ice crystals, the open door will carry an ice crystal.]]></text>
+	<text name="help_legende_05_tueroffen"><![CDATA[An open door tells you that you have collected all the stolen game files in this level, but you haven't found all the ice crystals yet.]]></text>
+	<text name="help_legende_06_labor"><![CDATA[In the laboratory you will find all the game files that Chubby recovered. Here you can also download your rewards for finding the stolen files.]]></text>
+	<text name="help_legende_07_feedback"><![CDATA[If you want to, you can use the feedback form to tell us what you like about the advent calendar, or what you don't like so much. We appreciate all your comments!]]></text>
 
-	<text name="help_anzeige_01_headline"><![CDATA[Hinweise zur optimalen Anzeige]]></text>
-	<text name="help_anzeige_02_copy"><![CDATA[Am besten kannst du Chubby Snow auf seiner Mission in Snowdriftland begleiten, wenn du an deinem Monitor eine Auflösung von 1024x768 Pixel eingestellt hast und den Microsoft Internet Explorer® benutzt.]]></text>
+	<text name="help_anzeige_01_headline"><![CDATA[Mission instructions]]></text>
+	<text name="help_anzeige_02_copy"><![CDATA[The best way to support Chubby during his Mission in Snowdriftland is to set your monitor to a resolution of 1024x768 pixels and use Microsoft Internet Explorer®.]]></text>
 
 </texte>
